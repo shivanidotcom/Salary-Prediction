@@ -22,6 +22,7 @@ def show_predict_page():
     countries = (
         "United States of America",
         "India",
+        "United Kingdom",
         "Germany",
         "Canada",
         "Brazil",
